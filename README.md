@@ -1,9 +1,9 @@
 # Hello
 I am Anay, I like to code.
 ```javascript
-var learning = "javascript";
-var making = "websites";
-var details = {
+let learning = "11ty";
+let making = "websites";
+let details = {
 name:"anay",
 channel:"anay coding",
 editor:"vs code",
