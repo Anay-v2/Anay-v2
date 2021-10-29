@@ -26,6 +26,10 @@ Skills:
 ![BASH](https://img.shields.io/badge/BASH-lime?style=for-the-badge&logo=GNUBASH&logoColor=white)
 ![MD](https://img.shields.io/badge/MD-black?style=for-the-badge&logo=MARKDOWN&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white)
+And More!
+
+![Most-Used-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anay-v2&layout=compact&bg_color=060f2c&text_color=fff)
+
 
 
 ~~I exist~~
