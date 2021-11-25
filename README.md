@@ -1,13 +1,13 @@
 # Hello
 I am Anay, I like to code.
 ```javascript
-let learning = "11ty";
+let learning = "ruby";
 let making = "websites";
 let details = {
-name:"anay",
-channel:"anay coding",
-editor:"vs code",
-language:"html"
+  name:"anay",
+  channel:"anay coding",
+  editor:"vs code",
+  language:"html"
 };
 ```
 - [x] Want to collaborate
