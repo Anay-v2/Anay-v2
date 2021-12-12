@@ -1,7 +1,6 @@
 # Hello
 I am Anay, I like to code.
 ```javascript
-let learning = "ruby";
 let making = "websites";
 let details = {
   name:"anay",
